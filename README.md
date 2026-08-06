@@ -38,7 +38,7 @@ Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
 | [`evm_dex_defi`](https://github.com/lokinhh/evm_dex_defi) | EVM DEX & DeFi AMM — Sepolia/BSC testnet |
 | [`forex_broker_crm`](https://github.com/lokinhh/forex_broker_crm) | Forex broker CRM — MT5, KYC, copy trade, PAMM |
 
-## I like working with:
+## Stack
 
 <p style="display: inline-block;" align="center">
   <kbd>
