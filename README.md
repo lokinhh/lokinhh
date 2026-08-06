@@ -42,12 +42,6 @@ Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
 
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Frontend</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-  </kbd>
-  <kbd>
     <kbd>Backend</kbd>
     <br>
     <br>
@@ -67,7 +61,7 @@ Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
     <kbd>Library/Frameworks</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,react" />
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs" />
     <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" />
   </kbd>
   <kbd>
