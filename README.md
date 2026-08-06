@@ -36,19 +36,13 @@ I build systems that keep running after handoff. Ho Chi Minh City, Vietnam.
 
 ## Stack
 
-<p align="center">
-  <img height="32" src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity&perline=8" />
-  <br><br>
-  <img height="32" src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite&perline=8" />
-  <br><br>
-  <img height="32" src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git&perline=8" />
-  <br><br>
-  <img height="32" src="https://skillicons.dev/icons?i=vscode,linux,apple,windows&perline=4" />
-</p>
+| Languages | Data |
+|:---:|:---:|
+| <img height="28" src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity" /> | <img height="28" src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite" /> |
 
-<p align="center">
-  <sub>ClickHouse · InfluxDB · RocksDB · Playwright · n8n / Make</sub>
-</p>
+| Frameworks & tools | Infra |
+|:---:|:---:|
+| <img height="28" src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git" /> | <img height="28" src="https://skillicons.dev/icons?i=vscode,linux,apple,windows" /><br><sub>ClickHouse · InfluxDB · RocksDB · Playwright · n8n</sub> |
 
 ---
 
