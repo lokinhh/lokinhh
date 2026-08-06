@@ -36,42 +36,18 @@ I build systems that keep running after handoff. Ho Chi Minh City, Vietnam.
 
 ## Stack
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Backend</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs,ts,cs,rust,go,solidity" />
-  </kbd>
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite" />
-    <img height="48" src="https://cdn.simpleicons.org/clickhouse/FFCC01" alt="ClickHouse" title="ClickHouse" />
-    <img height="48" src="https://cdn.simpleicons.org/influxdb/22ADF6" alt="InfluxDB" title="InfluxDB" />
-    <img height="48" src="https://cdn.simpleicons.org/rocksdb/FFFFFF" alt="RocksDB" title="RocksDB" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Library/Frameworks</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs" />
-    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,kafka,git,vscode,linux" />
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows" />
-  </kbd>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,apple,windows&perline=4" />
+</p>
+
+<p align="center">
+  <sub>ClickHouse · InfluxDB · RocksDB · Playwright · n8n / Make</sub>
 </p>
 
 ---
