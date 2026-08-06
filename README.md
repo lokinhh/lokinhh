@@ -51,7 +51,7 @@ Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
     <kbd>Backend</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs,ts,rust,go,solidity" />
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,ts,cs,rust,go,solidity" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
