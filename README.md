@@ -37,13 +37,13 @@ I build systems that keep running after handoff. Ho Chi Minh City, Vietnam.
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity&perline=8" />
+  <img height="32" src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity&perline=8" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite&perline=8" />
+  <img height="32" src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite&perline=8" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git&perline=8" />
+  <img height="32" src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git&perline=8" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,apple,windows&perline=4" />
+  <img height="32" src="https://skillicons.dev/icons?i=vscode,linux,apple,windows&perline=4" />
 </p>
 
 <p align="center">
