@@ -36,12 +36,25 @@ I build systems that keep running after handoff. Ho Chi Minh City, Vietnam.
 
 ## Stack
 
-```
-Languages     Python · Java · C# · TypeScript · Node.js · Rust · Go · Solidity
-Data          PostgreSQL · Redis · ClickHouse · Cassandra · Elasticsearch · InfluxDB · Kafka · MongoDB
-Frameworks    FastAPI · Spring · LangGraph · Playwright · n8n / Make
-Infra         Docker · AWS · Linux
-```
+<p align="center">
+  <kbd>
+    <kbd>Languages</kbd><br><br>
+    <img src="https://skillicons.dev/icons?i=py,java,cs,ts,nodejs,rust,go" />
+  </kbd>
+  <kbd>
+    <kbd>Data</kbd><br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,redis,cassandra,elasticsearch,mongodb,kafka,dynamodb" />
+  </kbd>
+  <br>
+  <kbd>
+    <kbd>Frameworks & Infra</kbd><br><br>
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,aws,linux" />
+  </kbd>
+</p>
+
+<p align="center">
+<code>Solidity</code> · <code>ClickHouse</code> · <code>InfluxDB</code> · <code>LangGraph</code> · <code>Playwright</code> · <code>n8n</code> · <code>Make</code>
+</p>
 
 ---
 
