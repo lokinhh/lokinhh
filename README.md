@@ -2,9 +2,9 @@
 
 # Leo N.
 
-**Trading Bot · Web Scraping · Blockchain Developer**
+**AI Agents · RAG · n8n / Make · Web Scraping · High-Scale Trading Infra**
 
-Playwright · MT5 · Python · Solana · EVM
+LangGraph · Playwright · Python · Java / Spring Boot · Kafka · Redis
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e1fc3daf765062e7)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/leo_nhl)
@@ -14,22 +14,25 @@ Playwright · MT5 · Python · Solana · EVM
 
 ---
 
-Broken automation costs money — whether it's a trade copier that misses fills or a scraper that dies when the site updates. **I build systems that keep running after handoff.**
+Broken automation costs money — missed fills, scrapers that die on site updates, or chatbots that invent citations. **I build systems that keep running after handoff.**
 
-Python automation engineer · 7 years production experience · Ho Chi Minh City, Vietnam
+Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
 
 ## What I Build
 
-| | Area | Stack |
+| | Area | Focus |
 |---|---|---|
-| 🤖 | **Trading Automation** | MT5 EAs, trade copiers, TradingView webhooks, broker APIs |
-| 🕷️ | **Web Scraping & Data** | Playwright, anti-bot, login flows → JSON/CSV/PostgreSQL |
+| 🧠 | **AI agents / RAG** | LangGraph + FastAPI domain Q&A — grounded LLM answers, citation verification, streaming chat |
+| ⚡ | **n8n / Make / Zapier** | Webhook → AI classify/summarize → Sheets / Slack / Telegram / CRM; code nodes when templates aren't enough |
+| 🕷️ | **Web Scraping & Data** | Playwright, anti-bot, login flows → JSON / CSV / Sheets / API |
+| 📈 | **High-scale CEX / trading** | WebSocket ~100k concurrent / instance · matching ~200k TPS / pair (L1/L2) · post-process → DB ~50k TPS / instance · MT5 / TradingView webhooks |
 | ⛓️ | **Blockchain & DEX** | Solana copy-trade, EVM AMM, on-chain + off-chain pipelines |
 
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
+| AI domain Q&A (Legalbot) | LangGraph + FastAPI RAG — Vertex Gemini grounding, citation checks on real sources, streaming + audit |
 | [`trade_copier`](https://github.com/lokinhh/trade_copier) | Cloud trade copier — MT4/MT5, prop firm & multi-account |
 | [`medical_provider_scraper`](https://github.com/lokinhh/medical_provider_scraper) | Playwright healthcare directory extractor + anti-bot |
 | [`solana_dex_platform`](https://github.com/lokinhh/solana_dex_platform) | Solana DEX + copy-trade engine |
@@ -40,12 +43,15 @@ Python automation engineer · 7 years production experience · Ho Chi Minh City,
 ## Stack
 
 ```
-Python  Playwright  Node.js  MQL5  Solidity  PostgreSQL  Docker  AWS
+Python  Java/Spring Boot  LangGraph  FastAPI  Vertex AI / OpenAI
+n8n  Make  Playwright  Node.js  Kafka  Redis  MQL5
+PostgreSQL  Docker  AWS
 ```
 
 ---
 
 > I build infrastructure — I don't sell trading strategies or guarantee profits.  
+> Domain AI: grounded answers + verified citations, not chatbot demos that invent sources.  
 > Scraping: publicly accessible or client-authorized sources only.
 
 **Available for freelance:** [Upwork](https://www.upwork.com/freelancers/~01e1fc3daf765062e7) · [Fiverr](https://www.fiverr.com/leo_nhl)
