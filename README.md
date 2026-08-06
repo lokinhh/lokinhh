@@ -2,9 +2,7 @@
 
 # Leo N.
 
-**AI Agents · RAG · n8n / Make · Web Scraping · High-Scale Trading Infra**
-
-LangGraph · Playwright · Python · Java / Spring Boot · Kafka · Redis
+**Production automation & trading infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/locnguyenh/)
 
@@ -12,9 +10,7 @@ LangGraph · Playwright · Python · Java / Spring Boot · Kafka · Redis
 
 ---
 
-Broken automation costs money — missed fills, scrapers that die on site updates, or chatbots that invent citations. **I build systems that keep running after handoff.**
-
-Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
+I build systems that keep running after handoff. Ho Chi Minh City, Vietnam.
 
 ## What I Build
 
