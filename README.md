@@ -36,13 +36,33 @@ I build systems that keep running after handoff. Ho Chi Minh City, Vietnam.
 
 ## Stack
 
-| Languages | Data |
-|:---:|:---:|
-| <img height="28" src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity" /> | <img height="28" src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite" /> |
+<p align="center">
+  <kbd>
+    <kbd>Languages</kbd>
+    <br><br>
+    <img height="28" src="https://skillicons.dev/icons?i=py,java,cs,nodejs,ts,rust,go,solidity" />
+  </kbd>
+  <kbd>
+    <kbd>Data</kbd>
+    <br><br>
+    <img height="28" src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite" />
+  </kbd>
+  <br><br>
+  <kbd>
+    <kbd>Frameworks</kbd>
+    <br><br>
+    <img height="28" src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git" />
+  </kbd>
+  <kbd>
+    <kbd>Infra</kbd>
+    <br><br>
+    <img height="28" src="https://skillicons.dev/icons?i=vscode,linux,apple,windows" />
+  </kbd>
+</p>
 
-| Frameworks & tools | Infra |
-|:---:|:---:|
-| <img height="28" src="https://skillicons.dev/icons?i=fastapi,spring,express,nestjs,docker,aws,kafka,git" /> | <img height="28" src="https://skillicons.dev/icons?i=vscode,linux,apple,windows" /><br><sub>ClickHouse · InfluxDB · RocksDB · Playwright · n8n</sub> |
+<p align="center">
+  <sub>ClickHouse · InfluxDB · RocksDB · Playwright · n8n / Make</sub>
+</p>
 
 ---
 
