@@ -57,7 +57,10 @@ Backend & automation · 4+ years production · Ho Chi Minh City, Vietnam
     <kbd>Database</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,cassandra,elasticsearch,dynamodb,sqlite" />
+    <img height="48" src="https://cdn.simpleicons.org/clickhouse/FFCC01" alt="ClickHouse" title="ClickHouse" />
+    <img height="48" src="https://cdn.simpleicons.org/influxdb/22ADF6" alt="InfluxDB" title="InfluxDB" />
+    <img height="48" src="https://cdn.simpleicons.org/rocksdb/FFFFFF" alt="RocksDB" title="RocksDB" />
   </kbd>
   <br>
   <kbd>
